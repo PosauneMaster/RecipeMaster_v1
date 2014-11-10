@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipeTemplateItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeTemplateItem>
+    <Name>Variable A4</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A4</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Variable D8</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>D8</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Variable E1</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>E1</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Variable F1</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>F1</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>range[]BRank</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>B1</CellStart>
+    <CellEnd>B10</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>range[]GRank</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>G1</CellStart>
+    <CellEnd>G4</CellEnd>
+  </RecipeTemplateItem>
+</ArrayOfRecipeTemplateItem>

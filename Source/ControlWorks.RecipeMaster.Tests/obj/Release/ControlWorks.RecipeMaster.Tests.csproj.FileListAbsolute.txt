@@ -1,0 +1,14 @@
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\nunit.framework.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\Recipe Master.exe
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\WH.Utils.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\BR.AN.PVIServices.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\nunit.framework.xml
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\WH.Utils.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Release\Recipe Master.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Release\ControlWorks.RecipeMaster.Tests.Properties.Resources.resources
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Release\ControlWorks.RecipeMaster.Tests.csproj.GenerateResource.Cache
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Release\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Release\ControlWorks.RecipeMaster.Tests.pdb

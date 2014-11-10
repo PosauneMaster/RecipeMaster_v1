@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll</TopNode>
+  <SelectedNode>[0-1009]C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]ControlWorks" Expanded="true" />
+    <Node UniqueName="[0-1011]ControlWorks.RecipeMaster" Expanded="true" />
+    <Node UniqueName="[0-1012]ControlWorks.RecipeMaster.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]ControlWorks.RecipeMaster.Tests.TestRecipeData" Expanded="true" />
+    <Node UniqueName="[0-1004]ControlWorks.RecipeMaster.Tests.TestRecipeVariable" Expanded="true" />
+  </Nodes>
+</VisualState>

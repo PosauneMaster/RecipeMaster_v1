@@ -1,0 +1,42 @@
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.exe
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.dll
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\BR.AN.PVIServices.dll
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.pdb
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.pdb
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.Properties.Resources.resources
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.csproj.GenerateResource.Cache
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0002\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.exe
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.dll
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\BR.AN.PVIServices.dll
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.pdb
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.pdb
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.Properties.Resources.resources
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.csproj.GenerateResource.Cache
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.exe
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\BR.AN.PVIServices.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\WH.Utils.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\Recipe Master.pdb
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.Properties.Resources.resources
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.csproj.GenerateResource.Cache
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.dll
+C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\obj\Debug\ControlWorks.RecipeMaster.Tests.pdb

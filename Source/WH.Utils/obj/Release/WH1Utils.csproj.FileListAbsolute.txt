@@ -1,0 +1,15 @@
+C:\Projects\0002\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.dll
+C:\Projects\0002\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.pdb
+C:\Projects\0002\Source\BendSheets\WH.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\0002\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.dll
+C:\Projects\0002\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.pdb
+C:\Projects\0003\0003\Source\WH.Utils\bin\Release\WH.Utils.dll
+C:\Projects\0003\0003\Source\WH.Utils\bin\Release\WH.Utils.pdb
+C:\Projects\0003\0003\Source\WH.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\0003\0003\Source\WH.Utils\obj\Release\WH.Utils.dll
+C:\Projects\0003\0003\Source\WH.Utils\obj\Release\WH.Utils.pdb
+C:\Users\Bill\Source\Repos\RecipeMaster\old\0003\0003\Source\WH.Utils\bin\Release\WH.Utils.dll
+C:\Users\Bill\Source\Repos\RecipeMaster\old\0003\0003\Source\WH.Utils\bin\Release\WH.Utils.pdb
+C:\Users\Bill\Source\Repos\RecipeMaster\old\0003\0003\Source\WH.Utils\obj\Release\WH1Utils.csprojResolveAssemblyReference.cache
+C:\Users\Bill\Source\Repos\RecipeMaster\old\0003\0003\Source\WH.Utils\obj\Release\WH.Utils.dll
+C:\Users\Bill\Source\Repos\RecipeMaster\old\0003\0003\Source\WH.Utils\obj\Release\WH.Utils.pdb

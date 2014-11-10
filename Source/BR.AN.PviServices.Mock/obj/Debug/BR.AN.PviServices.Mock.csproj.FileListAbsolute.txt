@@ -1,0 +1,3 @@
+C:\Projects\0002\Source\BR.AN.PviServices.Mock\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0002\Source\BR.AN.PviServices.Mock\obj\Debug\BR.AN.PviServices.Mock.Properties.Resources.resources
+C:\Projects\0002\Source\BR.AN.PviServices.Mock\obj\Debug\BR.AN.PviServices.Mock.csproj.GenerateResource.Cache

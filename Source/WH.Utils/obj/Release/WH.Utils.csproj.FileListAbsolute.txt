@@ -1,0 +1,10 @@
+C:\Projects\0001\0001\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.dll
+C:\Projects\0001\0001\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.pdb
+C:\Projects\0001\0001\Source\BendSheets\WH.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\0001\0001\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.dll
+C:\Projects\0001\0001\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.pdb
+C:\Projects\0001\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.dll
+C:\Projects\0001\Source\BendSheets\WH.Utils\bin\Release\WH.Utils.pdb
+C:\Projects\0001\Source\BendSheets\WH.Utils\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\0001\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.dll
+C:\Projects\0001\Source\BendSheets\WH.Utils\obj\Release\WH.Utils.pdb

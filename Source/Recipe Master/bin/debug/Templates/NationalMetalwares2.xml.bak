@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipeTemplateItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeTemplateItem>
+    <SendName>currentPart.fileName</SendName>
+    <ReceiveName>runningPart.fileName</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B3</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.fileDescription</SendName>
+    <ReceiveName>runningPart.fileDescription</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B4</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.partCountMethode</SendName>
+    <ReceiveName>runningPart.partCountMethode</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B5</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.partCountNumberofSensors</SendName>
+    <ReceiveName>runningPart.partCountNumberofSensors</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B6</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.partCountNumberofMachineCycles</SendName>
+    <ReceiveName>runningPart.partCountNumberofMachineCycles</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B7</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.redStatusPreset</SendName>
+    <ReceiveName>runningPart.redStatusPreset</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B9</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.outputTimer[].delay</SendName>
+    <ReceiveName>runningPart.outputTimer[].delay</ReceiveName>
+    <ItemType>Range</ItemType>
+    <CellStart>B13</CellStart>
+    <CellEnd>B22</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.outputTimer[].dwell</SendName>
+    <ReceiveName>runningPart.outputTimer[].dwell</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>C13</CellStart>
+    <CellEnd>C22</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <SendName>currentPart.partPressCycleTimePreset</SendName>
+    <ReceiveName>runningPart.partPressCycleTimePreset</ReceiveName>
+    <ItemType>Cell</ItemType>
+    <CellStart>B8</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+</ArrayOfRecipeTemplateItem>

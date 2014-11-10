@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MachineCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MachineList>
+    <Machine>
+      <TemplatePath>C:\Projects\0003\0003\Source\Recipe Master\bin\debug\Templates\NationalMetalwares2.xml</TemplatePath>
+      <Template>NationalMetalwares2</Template>
+      <MachineName>Machine 1</MachineName>
+      <Destination>2</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Data\Master</MasterFile>
+      <ProductionFile>C:\Data\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>true</Active>
+      <ActiveText>Active</ActiveText>
+    </Machine>
+    <Machine>
+      <MachineName>Machine 2</MachineName>
+      <Destination>102</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Master</MasterFile>
+      <ProductionFile>C:\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>false</Active>
+      <ActiveText>Inactive</ActiveText>
+    </Machine>
+    <Machine>
+      <MachineName>Machine 3</MachineName>
+      <Destination>103</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Master</MasterFile>
+      <ProductionFile>C:\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>true</Active>
+      <ActiveText>Active</ActiveText>
+    </Machine>
+    <Machine>
+      <MachineName>Machine 4</MachineName>
+      <Destination>104</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Master</MasterFile>
+      <ProductionFile>C:\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>true</Active>
+      <ActiveText>Active</ActiveText>
+    </Machine>
+    <Machine>
+      <MachineName>Machine 5</MachineName>
+      <Destination>105</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Master</MasterFile>
+      <ProductionFile>C:\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>false</Active>
+      <ActiveText>Inactive</ActiveText>
+    </Machine>
+    <Machine>
+      <MachineName>Machine 6</MachineName>
+      <Destination>106</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Master</MasterFile>
+      <ProductionFile>C:\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>false</Active>
+      <ActiveText>Inactive</ActiveText>
+    </Machine>
+  </MachineList>
+  <MasterFilePath>C:\Data\Master</MasterFilePath>
+  <ProductionFilePath>C:\Data\Production</ProductionFilePath>
+  <Archive>false</Archive>
+</MachineCollection>

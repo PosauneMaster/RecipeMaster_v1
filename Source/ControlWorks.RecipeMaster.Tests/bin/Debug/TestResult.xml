@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll" total="1" failures="0" not-run="0" date="2009-04-26" time="14:36:31">
+  <environment nunit-version="2.4.6.0" clr-version="2.0.50727.1434" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug" machine-name="CAROL-PC" user="Carol" user-domain="Carol-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Projects\0003\0003\Source\ControlWorks.RecipeMaster.Tests\bin\Debug\ControlWorks.RecipeMaster.Tests.dll" success="True" time="0.191" asserts="0">
+    <results>
+      <test-suite name="ControlWorks" success="True" time="0.182" asserts="0">
+        <results>
+          <test-suite name="RecipeMaster" success="True" time="0.177" asserts="0">
+            <results>
+              <test-suite name="Tests" success="True" time="0.168" asserts="0">
+                <results>
+                  <test-suite name="TestRecipeData" success="True" time="0.150" asserts="0">
+                    <results>
+                      <test-case name="ControlWorks.RecipeMaster.Tests.TestRecipeData.TestMultiToSingle" executed="True" success="True" time="0.132" asserts="6" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

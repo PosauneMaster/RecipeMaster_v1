@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MachineCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MachineList>
+    <Machine>
+      <TemplatePath>C:\Projects\0003\0003\Source\Recipe Master\bin\debug\Templates\NationalMetalwares2.xml</TemplatePath>
+      <Template>NationalMetalwares2</Template>
+      <MachineName>Machine 1</MachineName>
+      <Destination>2</Destination>
+      <IsConnected>false</IsConnected>
+      <MasterFile>C:\Data\Master</MasterFile>
+      <ProductionFile>C:\Data\Production</ProductionFile>
+      <FileName />
+      <Status>Disconnected</Status>
+      <Active>true</Active>
+      <ActiveText>Active</ActiveText>
+    </Machine>
+  </MachineList>
+  <MasterFilePath>C:\Data\Master</MasterFilePath>
+  <ProductionFilePath>C:\Data\Production</ProductionFilePath>
+  <Archive>false</Archive>
+</MachineCollection>

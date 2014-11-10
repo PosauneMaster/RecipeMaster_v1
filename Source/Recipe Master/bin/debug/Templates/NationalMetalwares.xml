@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipeTemplateItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeTemplateItem>
+    <Name>currentPart.fileName</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B3</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.fileDescription</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B4</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.partCountMethode</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B5</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.partCountNumberofSensors</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B6</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.partCountNumberofMachineCycles</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B7</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.redStatusPreset</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B9</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.outputTimer[].delay</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>B13</CellStart>
+    <CellEnd>B22</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.outputTimer[].dwell</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>C13</CellStart>
+    <CellEnd>C22</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>currentPart.partPressCycleTimePreset</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>B8</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+</ArrayOfRecipeTemplateItem>

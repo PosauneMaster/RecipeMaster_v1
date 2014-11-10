@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipeTemplateItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeTemplateItem>
+    <Name>Test1</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A1</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test2</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A2</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test3</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A3</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test4</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A4</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test5</Name>
+    <ItemType>Cell</ItemType>
+    <CellStart>A5</CellStart>
+    <CellEnd />
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test6</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>B1</CellStart>
+    <CellEnd>C3</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test7</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>D1</CellStart>
+    <CellEnd>E5</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test8</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>F1</CellStart>
+    <CellEnd>G10</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test9</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>H1</CellStart>
+    <CellEnd>I23</CellEnd>
+  </RecipeTemplateItem>
+  <RecipeTemplateItem>
+    <Name>Test10</Name>
+    <ItemType>Range</ItemType>
+    <CellStart>M1</CellStart>
+    <CellEnd>P10</CellEnd>
+  </RecipeTemplateItem>
+</ArrayOfRecipeTemplateItem>

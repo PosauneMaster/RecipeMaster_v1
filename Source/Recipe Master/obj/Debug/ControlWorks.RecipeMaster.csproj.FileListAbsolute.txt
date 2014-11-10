@@ -1,0 +1,61 @@
+C:\Projects\0002\Source\Recipe Master\bin\debug\Recipe Master.exe.config
+C:\Projects\0002\Source\Recipe Master\bin\debug\Recipe Master.exe
+C:\Projects\0002\Source\Recipe Master\bin\debug\Recipe Master.pdb
+C:\Projects\0002\Source\Recipe Master\bin\debug\BR.AN.PVIServices.dll
+C:\Projects\0002\Source\Recipe Master\bin\debug\WH.Utils.dll
+C:\Projects\0002\Source\Recipe Master\bin\debug\WH.Utils.pdb
+C:\Projects\0002\Source\Recipe Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.Properties.Resources.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.AboutForm.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.AddMachine.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.CpuForm.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.Password.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.PasswordManager.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.PVINetworkForm.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.BendSheet.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.SettingsForm.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\BendSheets.StartUpForm.resources
+C:\Projects\0002\Source\Recipe Master\obj\Debug\ControlWorks.RecipeMaster.csproj.GenerateResource.Cache
+C:\Projects\0002\Source\Recipe Master\obj\Debug\Recipe Master.exe
+C:\Projects\0002\Source\Recipe Master\obj\Debug\Recipe Master.pdb
+C:\Projects\0003\Source\Recipe Master\bin\debug\Recipe Master.exe.config
+C:\Projects\0003\Source\Recipe Master\bin\debug\Recipe Master.exe
+C:\Projects\0003\Source\Recipe Master\bin\debug\Recipe Master.pdb
+C:\Projects\0003\Source\Recipe Master\bin\debug\BR.AN.PVIServices.dll
+C:\Projects\0003\Source\Recipe Master\bin\debug\WH.Utils.dll
+C:\Projects\0003\Source\Recipe Master\bin\debug\WH.Utils.pdb
+C:\Projects\0003\Source\Recipe Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.Properties.Resources.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.AboutForm.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.AddMachine.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.CpuForm.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.Password.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.PasswordManager.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.PVINetworkForm.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.BendSheet.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.SettingsForm.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\BendSheets.StartUpForm.resources
+C:\Projects\0003\Source\Recipe Master\obj\Debug\ControlWorks.RecipeMaster.csproj.GenerateResource.Cache
+C:\Projects\0003\Source\Recipe Master\obj\Debug\Recipe Master.exe
+C:\Projects\0003\Source\Recipe Master\obj\Debug\Recipe Master.pdb
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\Recipe Master.exe.config
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\Recipe Master.exe
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\Recipe Master.pdb
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\BR.AN.PVIServices.dll
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\WH.Utils.dll
+C:\Projects\0003\0003\Source\Recipe Master\bin\debug\WH.Utils.pdb
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.Properties.Resources.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.frmVariables.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.frmAddVariable.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.AboutForm.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.AddMachine.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.CpuForm.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.PVINetworkForm.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.BendSheet.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.SettingsForm.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.StartUpForm.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\BendSheets.frmCreateTemplate.resources
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\ControlWorks.RecipeMaster.csproj.GenerateResource.Cache
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\Recipe Master.exe
+C:\Projects\0003\0003\Source\Recipe Master\obj\Debug\Recipe Master.pdb
